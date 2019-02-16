@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace TodoApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[todo]")]
     [ApiController]
     public class ValuesController : ControllerBase
     {
