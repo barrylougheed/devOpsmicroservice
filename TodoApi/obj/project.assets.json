@@ -11795,23 +11795,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\barry\\.nuget\\packages\\": {},
+    "C:\\Users\\lougheedb\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barry\\Desktop\\College\\Year 4\\devOps\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\lougheedb\\Documents\\training\\devOps\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\barry\\Desktop\\College\\Year 4\\devOps\\TodoApi\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\barry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barry\\Desktop\\College\\Year 4\\devOps\\TodoApi\\TodoApi\\obj\\",
+      "projectPath": "C:\\Users\\lougheedb\\Documents\\training\\devOps\\TodoApi\\TodoApi.csproj",
+      "packagesPath": "C:\\Users\\lougheedb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lougheedb\\Documents\\training\\devOps\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\barry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lougheedb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

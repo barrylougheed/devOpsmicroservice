@@ -12,3 +12,17 @@ C:\Users\barry\Desktop\College\Year 4\devOps\TodoApi\TodoApi\obj\Debug\netcoreap
 C:\Users\barry\Desktop\College\Year 4\devOps\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 C:\Users\barry\Desktop\College\Year 4\devOps\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 C:\Users\barry\Desktop\College\Year 4\devOps\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\lougheedb\Documents\training\devOps\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
