@@ -44,7 +44,6 @@ namespace TodoApi
             {
                 app.UseHsts();
             }
-
             app.UseHttpsRedirection();
             app.UseMvc();
         }
