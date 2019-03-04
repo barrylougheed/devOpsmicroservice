@@ -13,6 +13,8 @@ using Microsoft.Extensions.Options;
 
 using Microsoft.EntityFrameworkCore;
 using TodoApi.Models;
+using TodoApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace TodoApi
 {
@@ -28,9 +30,13 @@ namespace TodoApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<TodoContext>(opt =>
-                opt.UseInMemoryDatabase("TodoList"));
+            var connection = @"Server=(localdb)\mssqllocaldb;Database=TodoApi.TodoApiDb;Trusted_Connection=True;ConnectRetryCount=0";
+            services.AddDbContext<TodoContext>
+                (opt =>
+                opt.UseSqlServer(connection));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+           
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
