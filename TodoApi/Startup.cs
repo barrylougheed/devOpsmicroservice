@@ -30,7 +30,7 @@ namespace TodoApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = @"Server=(localdb)\mssqllocaldb;Database=TodoApi.TodoApiDb;Trusted_Connection=True;ConnectRetryCount=0";
+            var connection = @"Server = tcp:lserver2.database.windows.net,1433; Initial Catalog = LDB; Persist Security Info = False; User ID =loyaltyadmin; Password =FilingCabinet!; MultipleActiveResultSets = False; Encrypt = True; TrustServerCertificate = False; Connection Timeout = 30; ";
             services.AddDbContext<TodoContext>
                 (opt =>
                 opt.UseSqlServer(connection));
@@ -50,7 +50,6 @@ namespace TodoApi
             {
                 app.UseHsts();
             }
-
             app.UseHttpsRedirection();
             app.UseMvc();
         }
