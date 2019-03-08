@@ -18,16 +18,16 @@ namespace TodoApi.Controllers
         public TodoController(TodoContext context)
         {
             _context = context;
-
+        }
             //Adds an item named "points" if the DB is empty
-            if (_context.TodoItems.Count() == 0)
-            {
+           // if (_context.TodoItems.Count() == 0)
+         //   {
                 // Create a new TodoItem if collection is empty,
                 // which means you can't delete all TodoItems.        
-                _context.TodoItems.Add(new TodoItem { Name = "Points" });
-                _context.SaveChanges();
-            }
-        }
+               // _context.TodoItems.Add(new TodoItem { Points = "10" });
+               // _context.SaveChanges();
+           // }
+       // }
 
         // ENDPOINT GET: api/Todo
         [HttpGet]

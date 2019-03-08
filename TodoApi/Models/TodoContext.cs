@@ -19,14 +19,12 @@ namespace TodoApi.Models
             modelBuilder.Entity<TodoItem>().HasData(new TodoItem
             {
                 Id = 1,
-                Name="barry",
-                Points=100
+               Points=100
 
 
             }, new TodoItem
             {
                 Id = 2,
-                Name="conor",
                 Points=180
             });
         }
